@@ -1,2 +1,1 @@
-# lab2-test-repo
-A test repo for lab 2 assignment
+lab 2 by Elene and Ellie
